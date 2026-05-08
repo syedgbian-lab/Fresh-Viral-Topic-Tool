@@ -10,7 +10,7 @@ YOUTUBE_VIDEO_URL =
 YOUTUBE_CHANNEL_URL =
 "https://www.googleapis.com/youtube/v3/channels"
 # Streamlit App Title
-st.title("YouTube Viral Topics Tool")
+st.title("Fresh Viral Topic Tool")
 # Input Fields
 days = st.number_input("Enter Days to Search (1-30):", min_value=1,
 max_value=30, value=5)
