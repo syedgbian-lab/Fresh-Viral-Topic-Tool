@@ -23,14 +23,23 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-    "Recession", "Tax", "Unemployment", "Financial literacy",
-    "Market", "Portfolio", "Expense", "Passive income", "Insurance",
-    "Pension", "Net worth", "Emergency fund", "Frugal living",
-    "Investment", "Mortgage", "Financial", "Cash", "Wealth",
-    "Assets", "Liabilities", "Economy", "Finance", "Money",
-    "Capital", "Equity", "Saving strategies", "Banking",
-    "Credit", "Debit", "Fiscal", "Retirement planning",
-    "Inflation", "Monetary"
+    "Financial Freedom", "Passive Income", "Budgeting", "Saving Money", "Bitcoin", "Ethereum",
+    "Bitcoin", "Ethereum", "Altcoins", "Crypto", "Blockchain", "DeFi", "NFTs", "Web3", "Crypto Trading",
+    "Crypto News", "Bitcoin ETF", "Meme Coins", "Solana", "XRP", "Stablecoins", "Crypto Wallet",
+    "Mining", "Staking", "Tokenization", "AI Crypto", "Real Estate", "House Hacking", "Rental Income",
+    "Airbnb", "Property Investing", "Mortgage", "Housing Crash", "Real Estate Bubble",
+    "Commercial Real Estate", "Passive Rental Income", "REITs", "Property Flipping", "Credit Cards",
+    "Cashback", "Reward Points", "Travel Hacking", "Credit Hacks", "Credit Repair", "Debt Consolidation",
+    "Cashback", "APR", "Banking Apps", "High Yield Savings", "HYSA", "Banking Tricks",
+    "Money Habits", "Frugal Living", "Wealth Building", "Side Hustles", "Emergency Fund",
+    "Debt Payoff", "Credit Score", "Minimalism", "Millionaire Habits", "Trade Wars", "Economic Bubbles",
+    "Money Psychology", "Financial Literacy", "Early Retirement", "FIRE", "Retirement Planning",
+    "Assets", "Tax Saving", "Expense Tracking", "Inflation", "Interest Rates", "Oil Economy", "Nasdaq",
+    "Federal Reserve", "Equity", "Central Banks", "Tariffs", "Money Printing", "GDP",
+    "Stock Market", "Investing", "ETFs", "Index Funds", "Dividends", "Day Trading", "Recession",
+    "Compound Interest", "Wealth Compounding", "Market Crash", "Economic Collapse", "S&P500"
+    "Swing Trading", "Value Investing", "Portfolio", "Bull Market", "Bear Market", "Stock Analysis",
+    "Hyperinflation", "Growth Investing", "Economic Warfare", "Dollar Collapse", "De-dollarization"
 ]
 
 # Fetch Data Button
@@ -162,7 +171,7 @@ if st.button("Fetch Data"):
                 )
 
                 # Only include small channels
-                if subs < 3000:
+                if subs < 10000:
 
                     all_results.append({
                         "Title": title,
