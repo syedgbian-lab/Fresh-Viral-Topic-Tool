@@ -23,23 +23,7 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-    "Financial Freedom", "Passive Income", "Budgeting", "Saving Money", "Bitcoin", "Ethereum",
-    "Bitcoin", "Ethereum", "Altcoins", "Crypto", "Blockchain", "DeFi", "NFTs", "Web3", "Crypto Trading",
-    "Crypto News", "Bitcoin ETF", "Meme Coins", "Solana", "XRP", "Stablecoins", "Crypto Wallet",
-    "Mining", "Staking", "Tokenization", "AI Crypto", "Real Estate", "House Hacking", "Rental Income",
-    "Airbnb", "Property Investing", "Mortgage", "Housing Crash", "Real Estate Bubble",
-    "Commercial Real Estate", "Passive Rental Income", "REITs", "Property Flipping", "Credit Cards",
-    "Cashback", "Reward Points", "Travel Hacking", "Credit Hacks", "Credit Repair", "Debt Consolidation",
-    "Cashback", "APR", "Banking Apps", "High Yield Savings", "HYSA", "Banking Tricks",
-    "Money Habits", "Frugal Living", "Wealth Building", "Side Hustles", "Emergency Fund",
-    "Debt Payoff", "Credit Score", "Minimalism", "Millionaire Habits", "Trade Wars", "Economic Bubbles",
-    "Money Psychology", "Financial Literacy", "Early Retirement", "FIRE", "Retirement Planning",
-    "Assets", "Tax Saving", "Expense Tracking", "Inflation", "Interest Rates", "Oil Economy", "Nasdaq",
-    "Federal Reserve", "Equity", "Central Banks", "Tariffs", "Money Printing", "GDP",
-    "Stock Market", "Investing", "ETFs", "Index Funds", "Dividends", "Day Trading", "Recession",
-    "Compound Interest", "Wealth Compounding", "Market Crash", "Economic Collapse", "S&P500"
-    "Swing Trading", "Value Investing", "Portfolio", "Bull Market", "Bear Market", "Stock Analysis",
-    "Hyperinflation", "Growth Investing", "Economic Warfare", "Dollar Collapse", "De-dollarization"
+"Dollar Collapse", "Dollar Collapse Theory", "US Dollar Collapse", "Dollar Crisis", "Currency Collapse", "Fiat Collapse", "Reserve Currency Crisis", "Petrodollar", "Petrodollar Collapse", "Dollar Devaluation", "USD Crash", "USD Inflation", "Dollar Inflation", "Hyperinflation", "Stagflation", "Currency Debasement", "Debt Crisis", "US Debt", "National Debt", "Federal Reserve", "Money Printing", "Quantitative Easing", "Interest Rates", "Federal Reserve Policy", "Central Banking", "Banking Crisis", "Liquidity Crisis", "Credit Crisis", "Economic Collapse", "Financial Collapse", "Global Recession", "Economic Depression", "Financial Reset", "Great Reset", "Monetary Reset", "Currency Reset", "Dedollarization", "De-dollarization", "BRICS Currency", "BRICS Economy", "Gold Standard", "Gold Backed Currency", "Silver Investing", "Precious Metals", "Safe Haven Assets", "Gold Hoarding", "Dollar Bubble", "Bond Market Crash", "Treasury Collapse", "Bank Failures", "Bank Runs", "Digital Currency", "CBDC", "Central Bank Digital Currency", "Digital Dollar", "Cashless Society", "Economic Warfare", "Trade Wars", "Sanctions", "Oil Trade", "Petroyuan", "Yuan vs Dollar", "China Economy", "US Economy", "Global Debt", "Sovereign Debt Crisis", "Inflation Hedge", "Wealth Protection", "Asset Protection", "Financial Survival", "Collapse Preparedness", "Prepper Finance", "Economic Survival", "Financial Independence", "Wealth Preservation", "Alternative Assets", "Bitcoin Hedge", "Crypto Hedge", "Bitcoin vs Dollar", "Store of Value", "Hard Assets", "Real Assets", "Commodity Boom", "Food Crisis", "Supply Chain Collapse",    "Geopolitical Risk", "Black Swan Event", "Economic Panic", "Market Fear", "Capital Flight", "Dollar Doom", "End of Dollar", "Collapse Economics", "Macro Economics", "Macro Investing", "Contrarian Investing", "Crisis Investing", "Survival Investing", "Inflation Survival", "Dollar Endgame", "Empire Decline", "US Economic Decline", "Currency War", "Global Currency Shift", "Monetary Crisis", "Financial Apocalypse", "Debt Spiral", "Fiscal Crisis", "Economic Uncertainty", "Recession Proof", "Safe Investments", "Off Grid Finance", "Financial Preparedness", "Weimar Inflation", "Argentina Inflation", "Zimbabwe Inflation", "Historical Currency Collapse", "Currency History", "Dollar Confidence Crisis"
 ]
 
 # Fetch Data Button
