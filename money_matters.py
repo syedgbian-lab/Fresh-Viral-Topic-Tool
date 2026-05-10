@@ -23,7 +23,19 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"Dollar Collapse", "Dollar Collapse Theory", "US Dollar Collapse", "Dollar Crisis", "Currency Collapse", "Fiat Collapse", "Reserve Currency Crisis", "Petrodollar", "Petrodollar Collapse", "Dollar Devaluation", "USD Crash", "USD Inflation", "Dollar Inflation", "Hyperinflation", "Stagflation", "Currency Debasement", "Debt Crisis", "US Debt", "National Debt", "Federal Reserve", "Money Printing", "Quantitative Easing", "Interest Rates", "Federal Reserve Policy", "Central Banking", "Banking Crisis", "Liquidity Crisis", "Credit Crisis", "Economic Collapse", "Financial Collapse", "Global Recession", "Economic Depression", "Financial Reset", "Great Reset", "Monetary Reset", "Currency Reset", "Dedollarization", "De-dollarization", "BRICS Currency", "BRICS Economy", "Gold Standard", "Gold Backed Currency", "Silver Investing", "Precious Metals", "Safe Haven Assets", "Gold Hoarding", "Dollar Bubble", "Bond Market Crash", "Treasury Collapse", "Bank Failures", "Bank Runs", "Digital Currency", "CBDC", "Central Bank Digital Currency", "Digital Dollar", "Cashless Society", "Economic Warfare", "Trade Wars", "Sanctions", "Oil Trade", "Petroyuan", "Yuan vs Dollar", "China Economy", "US Economy", "Global Debt", "Sovereign Debt Crisis", "Inflation Hedge", "Wealth Protection", "Asset Protection", "Financial Survival", "Collapse Preparedness", "Prepper Finance", "Economic Survival", "Financial Independence", "Wealth Preservation", "Alternative Assets", "Bitcoin Hedge", "Crypto Hedge", "Bitcoin vs Dollar", "Store of Value", "Hard Assets", "Real Assets", "Commodity Boom", "Food Crisis", "Supply Chain Collapse",    "Geopolitical Risk", "Black Swan Event", "Economic Panic", "Market Fear", "Capital Flight", "Dollar Doom", "End of Dollar", "Collapse Economics", "Macro Economics", "Macro Investing", "Contrarian Investing", "Crisis Investing", "Survival Investing", "Inflation Survival", "Dollar Endgame", "Empire Decline", "US Economic Decline", "Currency War", "Global Currency Shift", "Monetary Crisis", "Financial Apocalypse", "Debt Spiral", "Fiscal Crisis", "Economic Uncertainty", "Recession Proof", "Safe Investments", "Off Grid Finance", "Financial Preparedness", "Weimar Inflation", "Argentina Inflation", "Zimbabwe Inflation", "Historical Currency Collapse", "Currency History", "Dollar Confidence Crisis"
+"Gold Collapse", "Gold Crash", "Gold Price Crash", "Gold Bubble", "Gold Market Crash",
+"Gold Manipulation", "Paper Gold", "Physical Gold", "Gold Shortage", "Gold Panic",
+"Gold Selloff", "Gold Correction", "Gold Volatility", "Gold Market Manipulation",
+"COMEX Gold", "Gold Futures", "Gold Price Suppression", "Central Bank Gold",
+"Gold Reserve Crisis", "Gold Dump", "Gold Liquidity Crisis", "Gold vs Dollar",
+"Gold vs Bitcoin", "Gold Revaluation", "Gold Standard Collapse", "Gold Backed Currency Collapse",
+"Gold Demand Crash", "Gold Supply Crisis", "Gold Mining Crisis", "Gold Scarcity",
+"Gold Hoarding", "Gold Confiscation", "Gold Depression", "Gold Deflation",
+"Precious Metals Crash", "Safe Haven Collapse", "Bullion Market", "Bullion Collapse",
+"Gold ETF Crash", "Gold Bubble Burst", "Gold Investment Risk", "Gold Fear Trade",
+"Gold Price Prediction", "Gold Economic Collapse", "Gold Inflation Hedge",
+"Gold Bear Market", "Gold Market Fear", "Gold Wealth Protection", "Gold Financial Crisis",
+"Gold Price Manipulation", "Gold Reserve Collapse", "Gold Currency Crisis"
 ]
 
 # Fetch Data Button
