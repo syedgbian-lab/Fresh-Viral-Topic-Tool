@@ -23,7 +23,23 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"great depression families", "1932 great depression", "1973 oil crisis", "1979 gold mistake", "2008 crisis", "history repeated", "past crisis lessons", "historical crashes"
+"Minimalist Money Rules", "Financial Stability Habits", "Japanese Money Habits", "Quiet Wealth Building", "Frugal Wealth Strategy",
+"Millionaire Car Psychology", "Fake Rich Signs", "Real Wealth Indicators", "Financial Intelligence Habits", "Debt Payoff Strategy",
+"Salary Trap", "High Income Poverty", "Lifestyle Inflation Trap", "Compound Interest Acceleration", "Minimalist Wealth Framework",
+"Financial Traps in Your 30s", "Financial Traps in Your 40s", "Low Effort Budgeting", "Extreme Frugality Habits", "Net Worth Milestones",
+"Financial Literacy Guide", "Silent Wealth Building", "Social Security Strategy", "Money Lies", "Career Promotion Trap",
+"Average Net Worth by Age", "Investment Opportunity 2026", "Japan Debt Bomb", "US Dollar Risk", "Rapid Net Worth Growth",
+"Car Payment Trap", "Cash Position Strategy", "Beginner Investing Guide", "Lean Retirement Planning", "Million Dollar Habits",
+"Housing Affordability Crisis", "Boring Wealth Habits", "401k Contribution Debate", "Anti Consumerism Spending", "Underconsumption Wealth",
+"2026 Paycheck Routine", "High Income Broke Reality", "Retirement Savings Statistics", "Household Financial Reality", "Millionaire Wealth Transfer",
+"Upgrade Illusion", "Consumer Spending Trap", "Goldman Sachs Warning", "Retirement Decade Planning", "Daily Wealth Habits",
+"Credit Score Loophole", "Compounding 8-4-3 Rule", "Truck Ownership Trap", "Banking Privacy Strategy", "Retirement Coast FIRE",
+"Financial Goals Before 40", "Commute Cost Trap", "Emergency Fund Inflation", "Dual Income Broke Syndrome", "Hidden Tax Burden",
+"Before 30 Wealth Window", "100K Income Threshold", "Six Figure Broke Syndrome", "Buy Borrow Die Loophole", "Emergency Fund Trap",
+"10000 Savings Mistake", "Boring Assets Strategy", "Millionaire Spending Habits", "Overspending Psychology", "House Poor Syndrome",
+"Subscription Expense Leakage", "Tax Reduction Tactics", "Income Level Wealth Planning", "Financial Freedom Roadmap", "Hidden Ownership Costs",
+"2026 Economic Hardship", "Cash Savings Inflation", "Late Start Investing", "Compounding Wealth Curve", "Mortgage Lending Discrimination",
+"Insurance Loyalty Penalty", "Consumer Manipulation 2026", "Silent Wealth Drain", "Over Saving Cash Problem", "Beginner Saving Momentum"
 ]
 # Fetch Data Button
 if st.button("Fetch Data"):
