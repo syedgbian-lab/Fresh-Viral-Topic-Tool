@@ -23,12 +23,11 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"Survived", "Survive", "Survive Collapse", "Destroyed", "Lost",
-"Saved", "Hoarding", "Panic", "Warning", "Trap",
-"Mistake", "Lie", "Truth", "Secret", "Pattern",
-"History", "Forgotten", "Hidden", "Real Reason",
-"Inside", "Story", "Analysis", "Protocol",
-"Strategy", "Loophole"
+"Why", "How", "Inside", "Episode", "What Happened",
+"Before", "During", "After", "VS", "Can It Happen Again",
+"Is It Happening Again", "What They Don’t Tell You",
+"The Truth About", "The Pattern Behind", "History Says",
+"Nobody Talks About", "Explained"
 ]
 # Fetch Data Button
 if st.button("Fetch Data"):
