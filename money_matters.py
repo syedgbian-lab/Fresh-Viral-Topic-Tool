@@ -23,12 +23,15 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"Money", "Cash", "Debt", "Income", "Wealth", "Credit Score", "Retirement", "Budgeting",
-"Investing", "Savings", "Gold", "Silver", "Bitcoin", "Stocks", "Housing", "Car",
-"House", "Emergency Fund", "Taxes", "401(k)", "30s", "40s", "50s", "Retirement Age",
-"Paycheck", "Salary", "Net Worth", "Age", "2026 Financial Planning", "Future Wealth",
-"Buy", "Stop Spending", "Save Money", "Spend Less", "Invest Smart", "Pay Off Debt",
-"Contribute More", "Follow Financial Advice", "Avoid Financial Mistakes", "Manage Money"
+"Financial Freedom", "Financial Literacy", "Financial Stability", "Financial Crisis",
+"Financial Traps", "Financial Mistakes", "Financial Habits", "Financial Reality",
+"Financial Strategy", "Financial System", "Financial Education", "Financial Planning",
+"Financial Independence", "Financial Reset", "Money Habits", "Money Rules",
+"Money Mistakes", "Money Stats", "Money Lessons", "Money Myths",
+"Money Management", "Money Mindset", "Wealth Habits", "Wealth Building",
+"Wealth Creation", "Wealth Inequality", "Wealth Transfer", "Net Worth",
+"Passive Income", "Compound Interest", "Credit Score Loophole", "Emergency Fund",
+"Retirement Savings", "Debt Payoff", "Budget System", "Paycheck Routine"
 ]
 # Fetch Data Button
 if st.button("Fetch Data"):
