@@ -23,7 +23,7 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"gold mistake", "gold vs real estate", "gold vs stocks", "silver crisis", "gold crash history", "gold value", "gold 1979 mistake", "assets hold value", "safe assets crash"
+"crash", "crisis", "collapse", "inflation", "gold", "silver", "stocks", "real estate", "bonds", "assets", "recession", "depression", "currency", "banking", "wealth", "savings", "oil", "market", "history", "cycles", "opportunity"
 ]
 # Fetch Data Button
 if st.button("Fetch Data"):
