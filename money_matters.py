@@ -23,11 +23,13 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"Why", "How", "Inside", "Episode", "What Happened",
-"Before", "During", "After", "VS", "Can It Happen Again",
-"Is It Happening Again", "What They Don’t Tell You",
-"The Truth About", "The Pattern Behind", "History Says",
-"Nobody Talks About", "Explained"
+"Economic Collapse", "Currency Collapse", "Financial Collapse", "Reserve Currency",
+"Hyperinflation", "Inflation", "Recession", "Depression",
+"War Economy", "Oil Crisis", "Food Crisis", "Banking Crisis",
+"Debt Crisis", "Market Crash", "Empire Decline",
+"Financial History", "Monetary Systems",
+"Asset Survival", "Wealth Protection", "Crisis Survival",
+"Geopolitical Risk", "Commodity Investing", "Precious Metals"
 ]
 # Fetch Data Button
 if st.button("Fetch Data"):
