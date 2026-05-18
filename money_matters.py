@@ -23,7 +23,7 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"smart investors", "ordinary people rich", "families lost everything", "panic investors", "financial behavior crisis", "investor psychology crash", "fear vs opportunity"
+"what assets hold value", "assets survive collapse", "how to get rich collapse", "invest during crisis", "smart investor strategy", "protect wealth crisis", "recession investing strategy"
 ]
 # Fetch Data Button
 if st.button("Fetch Data"):
@@ -185,7 +185,7 @@ if st.button("Fetch Data"):
 
         else:
             st.warning(
-                "No results found for channels with fewer than 3,000 subscribers."
+                "No results found for channels with fewer than 10,000 subscribers."
             )
 
     except Exception as e:
