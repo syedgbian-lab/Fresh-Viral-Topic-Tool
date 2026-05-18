@@ -23,21 +23,13 @@ days = st.number_input(
 
 # List of broader keywords
 keywords = [
-"Gold Collapse", "Gold Crash", "Gold Price Crash", "Gold Bubble", "Gold Market Crash",
-"Gold Manipulation", "Paper Gold", "Physical Gold", "Gold Shortage", "Gold Panic",
-"Gold Selloff", "Gold Correction", "Gold Volatility", "Gold Market Manipulation",
-"COMEX Gold", "Gold Futures", "Gold Price Suppression", "Central Bank Gold",
-"Gold Reserve Crisis", "Gold Dump", "Gold Liquidity Crisis", "Gold vs Dollar",
-"Gold vs Bitcoin", "Gold Revaluation", "Gold Standard Collapse", "Gold Backed Currency Collapse",
-"Gold Demand Crash", "Gold Supply Crisis", "Gold Mining Crisis", "Gold Scarcity",
-"Gold Hoarding", "Gold Confiscation", "Gold Depression", "Gold Deflation",
-"Precious Metals Crash", "Safe Haven Collapse", "Bullion Market", "Bullion Collapse",
-"Gold ETF Crash", "Gold Bubble Burst", "Gold Investment Risk", "Gold Fear Trade",
-"Gold Price Prediction", "Gold Economic Collapse", "Gold Inflation Hedge",
-"Gold Bear Market", "Gold Market Fear", "Gold Wealth Protection", "Gold Financial Crisis",
-"Gold Price Manipulation", "Gold Reserve Collapse", "Gold Currency Crisis"
+"Money", "Cash", "Debt", "Income", "Wealth", "Credit Score", "Retirement", "Budgeting",
+"Investing", "Savings", "Gold", "Silver", "Bitcoin", "Stocks", "Housing", "Car",
+"House", "Emergency Fund", "Taxes", "401(k)", "30s", "40s", "50s", "Retirement Age",
+"Paycheck", "Salary", "Net Worth", "Age", "2026 Financial Planning", "Future Wealth",
+"Buy", "Stop Spending", "Save Money", "Spend Less", "Invest Smart", "Pay Off Debt",
+"Contribute More", "Follow Financial Advice", "Avoid Financial Mistakes", "Manage Money"
 ]
-
 # Fetch Data Button
 if st.button("Fetch Data"):
 
